@@ -1,0 +1,6 @@
+##I’m planning on creating that a tool that will predict the 
+quality of a leads and rank them. I have  pretty clean raw data 
+from my company’s salesforce to serve as examples of “good quality” 
+leads. I plan on scraping new data from craigslist and California, 
+New York and liquor license databases.  This data will probably 
+need a fair amount of finessing. 
