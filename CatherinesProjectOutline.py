@@ -1,6 +1,6 @@
-###Saas based business live and die off customer satisfaction. I wanted to create a model
-#to identify both venues who are vocally unhappy with our service and venues who are
-#vocally pleased with our service. I decided to look for reference customers and customers 
+###Saas centered businesses live and die off customer satisfaction. I wanted to create a model
+#to identify customers who are vocally unhappy with our service and venues who are
+#vocally pleased with our service. I decided to look for both potenial reference customers and customers 
 #that need account management 
 #attention by analyzing our customer support emails and tweets for positive or negative 
 #comments. 
